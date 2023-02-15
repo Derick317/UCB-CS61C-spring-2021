@@ -1,5 +1,6 @@
 # For CS 61C
 tools/
+vmfs/
 
 # Prerequisites
 *.d
